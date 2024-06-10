@@ -1,6 +1,6 @@
 #### Understanding Events
 
-- Create a react boilerplate
+- Creat e a react boilerplate
 - Using JSX do the following
 
 1.
