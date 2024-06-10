@@ -26,7 +26,7 @@
 <Button
   size="small"
   label="Button"
-  type="secondary"
+  type="seco ndary"
 />
 <Button
   size="large"
